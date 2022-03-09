@@ -1,7 +1,8 @@
 # STM32F103_HDC1080
 
-This is the code to use HDC1080 in stm32f103.
-However, if you have stm32 hal, you can use it in other stm32 series.
+This is the code to use HDC1080 in stm32f103.\n
+However, if you have stm32 hal, you can use it in other stm32 series.\n
+The I2C channel can be changed in the header file, and it is changed according to the I2C channel used by STM32.
 
 # function
 - HDC1080_init
